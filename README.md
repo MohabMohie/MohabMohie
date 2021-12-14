@@ -1,6 +1,6 @@
 ### Hi, I'm Mohab Mohie 👋
 
-I'm a Consultant Software Development Engineer in Test 🤖⚙️ with 9+ years of experience, and Senior Test Automation Instructor with 200+ students. Holding several certificates in Agile Development, Software Quality Control, and Test Automation.
+I'm a Consultant Software Development Engineer in Test 🤖⚙️ with 11+ years of experience, and Senior Test Automation Instructor with 300+ students. Holding several certificates in Agile Development, Software Quality Control, and Test Automation.
 
 Here are my GitHub stats:
 
