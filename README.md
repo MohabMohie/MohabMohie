@@ -5,6 +5,9 @@ I'm a Consultant Software Development Engineer in Test 🤖⚙️ with 11+ years
 Here are my GitHub stats:
 
 ![Mohab's github stats](https://github-readme-stats.vercel.app/api?username=mohabmohie&count_private=true&show_icons=true)
+[![Mohab's github trophies](https://github-profile-trophy.vercel.app/?username=MohabMohie&row=1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 Feel free to reach out to me for support via
 - LinkedIn: https://www.linkedin.com/in/mohabmohie/
