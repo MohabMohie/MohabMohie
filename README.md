@@ -4,7 +4,7 @@ Hi, My name is Mohab Mohie ![](https://user-images.githubusercontent.com/1835055
 Software Quality Manager / Test Automation Expert
 -------------------------------------------------
 
-I'm a Consultant Software Development Engineer in Test 🤖⚙️ with 12+ years of experience, and Senior Test Automation Instructor with 400+ students. Holding several certificates in Agile Development, Software Quality Control, and Test Automation. I'm also the creator of [SHAFT_Engine](https://github.com/shafthq/SHAFT_ENGINE) and do-founder of [Automatest](https://www.facebook.com/groups/Automatest) the largest online Test Automation Hub in the MEA region. 
+I'm a Consultant Software Development Engineer in Test 🤖⚙️ with 12+ years of experience, and Senior Test Automation Instructor with 400+ students. Holding several certificates in Agile Development, Software Quality Control, and Test Automation. I'm also the creator of [SHAFT_Engine](https://github.com/shafthq/SHAFT_ENGINE) and co-founder of [Automatest](https://www.facebook.com/groups/Automatest) the largest online Test Automation Hub in the MEA region. 
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [mohab.mohieeldeen@outlook.com](mailto:mohab.mohieeldeen@outlook.com)
