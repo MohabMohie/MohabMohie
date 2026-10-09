@@ -4,7 +4,7 @@ I create and maintain a unified Java test-automation engine, and the agent skill
 
 **Now.** SDET and automation specialist at cme, remote, since March 2025. Based in Giza, Egypt. I still maintain SHAFT_ENGINE, which I created in July 2017.
 
-**Proof.** 15+ years building automation platforms and CI/CD quality gates. At Vodafone Intelligent Solutions (_VOIS), from January 2021 to February 2025, I directed quality engineering across 200 engineers, 20 SAFe ARTs, and 20 first-line managers. SHAFT_ENGINE reaches about 7,000 weekly users across 12 countries and 40 companies. I co-founded Automatest, delivered 30+ training rounds for 600+ professionals, and that community has 23K+ members. Google Open Source Peer Bonus, 2023. SAFe 6 DevOps Practitioner.
+**Proof.** 15+ years building automation platforms and CI/CD quality gates. At Vodafone Intelligent Solutions (_VOIS), from January 2021 to February 2025, I directed quality engineering strategy across 200 engineers, 20 SAFe ARTs, and 20 first-line managers or technical leads. SHAFT_ENGINE reaches about 7,000 weekly users across 12 countries and 40 companies. I co-founded Automatest, delivered 30+ training rounds for 600+ professionals, and that community has 23K+ members. Google Open Source Peer Bonus, 2023. SAFe 6 DevOps Practitioner.
 
 ## SHAFT_ENGINE
 
